@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
+For UI -> Material UI is used for good UI experiance
+For Table - > react-ag-grid to show all the data in tabular format.
+ 
+
 ## Available Scripts
 
 In the project directory, you can run:
