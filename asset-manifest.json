@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elanco-assignment/static/css/main.1c8ea01b.css",
+    "main.js": "/Elanco-assignment/static/js/main.aadae11e.js",
+    "static/js/787.ee4a3b3b.chunk.js": "/Elanco-assignment/static/js/787.ee4a3b3b.chunk.js",
+    "index.html": "/Elanco-assignment/index.html",
+    "main.1c8ea01b.css.map": "/Elanco-assignment/static/css/main.1c8ea01b.css.map",
+    "main.aadae11e.js.map": "/Elanco-assignment/static/js/main.aadae11e.js.map",
+    "787.ee4a3b3b.chunk.js.map": "/Elanco-assignment/static/js/787.ee4a3b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8ea01b.css",
+    "static/js/main.aadae11e.js"
+  ]
+}
