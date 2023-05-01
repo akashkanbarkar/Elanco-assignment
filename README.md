@@ -7,7 +7,7 @@ For Table - > react-ag-grid to show all the data in tabular format.
    
 
 ## Available Scripts
-## Take a look : https://akashkanbarkar.github.io/applications
+## Take a look : https://akashkanbarkar.github.io/Elanco-assignment/
 
 In the project directory, you can run:
 
